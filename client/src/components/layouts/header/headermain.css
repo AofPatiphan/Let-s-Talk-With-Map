@@ -1,0 +1,29 @@
+.headermain {
+    background-color: #fff7ee;
+    color: #ab6b22;
+    width: 100vw;
+    height: 83px;
+}
+
+.addPostBtn {
+    font-size: 1.4rem;
+    padding: 0;
+    color: #ab6b22;
+}
+
+.postForm {
+    background-color: #fce7d0;
+}
+
+.postTitle {
+    color: #ab6b22;
+}
+
+.postBody {
+    color: #c68e50;
+}
+
+.postBtn {
+    background-color: #c68e50;
+    color: #fce7d0 !important;
+}

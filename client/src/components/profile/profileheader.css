@@ -1,0 +1,63 @@
+.coverImg {
+    margin-top: 50px;
+    height: 200px;
+    width: 390px;
+    object-fit: cover;
+}
+
+.profileHeader {
+    top: 40px;
+}
+
+.profileImg {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 210px;
+    left: 30px;
+}
+
+.topProfileDetail {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.editProfile {
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.editProfile > button {
+    border: 1px solid #c68e50;
+    border-radius: 8px;
+    margin: 0 7px;
+    color: #c68e50;
+}
+
+.username {
+    font-size: 2rem;
+    color: #ab6b22;
+    padding: 10px 30px;
+}
+
+.aboutme {
+    display: flex;
+    padding: 0 22px 10px;
+}
+
+.aboutme > button {
+    border: 1px solid #c68e50;
+    border-radius: 8px;
+    margin: 0 7px;
+    color: #c68e50;
+    background-color: none;
+}
+
+.caption {
+    color: #c68e50;
+    padding: 0 30px 10px;
+    text-decoration: underline;
+}

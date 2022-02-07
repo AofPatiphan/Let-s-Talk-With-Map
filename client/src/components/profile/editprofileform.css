@@ -1,0 +1,16 @@
+.editProfileForm {
+    background-color: #fce7d0;
+}
+
+.editProfileTitle {
+    color: #ab6b22;
+}
+
+.editProfileBody {
+    color: #c68e50;
+}
+
+.saveBtn {
+    background-color: #c68e50;
+    color: #fce7d0 !important;
+}

@@ -1,0 +1,27 @@
+.profileCardPicture {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profileContent {
+    color: #ab6b22;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+
+    /* gap: 30px; */
+}
+
+.detail1 {
+    width: 200px;
+}
+
+.detail2 {
+    width: 100%;
+    flex-grow: 1;
+    text-align: end;
+}

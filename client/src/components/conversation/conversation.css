@@ -1,0 +1,16 @@
+.profileCardPicture {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-detail {
+    color: #ab6b22;
+}
+
+.name {
+    color: #ab6b22;
+    display: flex;
+    justify-content: space-between;
+}

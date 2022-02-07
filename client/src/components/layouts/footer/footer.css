@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #fff7ee;
+    border-top: 0.5px solid #f2dbc2;
+    width: 100vw;
+    height: 83px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footerIcon {
+    font-size: 1.5rem;
+    padding-top: 17px;
+    color: #ab6b22;
+}
+
+.footerIcon:active {
+    color: #f2dbc2;
+}
